@@ -5,7 +5,7 @@ public class Main {
     static Scanner sc = new Scanner(System.in);
     static Random random = new Random();
     static String[] frases = {
-            "El cañón del revólver toca su sien, tus manos sudan frío.",
+            "El cañón del revólver toca tu sien, tus manos sudan frío.",
             "Escuchas tu corazón latir en los oídos mientras el dedo roza el gatillo.",
             "Una gota de sudor te resbala por la frente. No hay vuelta atrás.",
             "El tambor gira lentamente.",
